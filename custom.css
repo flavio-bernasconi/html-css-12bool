@@ -1,0 +1,5 @@
+[class*="col-"]{
+  background: rgb(58, 221, 201);
+  border: solid 1px rgb(139, 139, 139);
+  min-height: 200px;
+}
