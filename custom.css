@@ -3,3 +3,7 @@
   border: solid 1px rgb(139, 139, 139);
   min-height: 200px;
 }
+
+.col-6 > .row > [class*="col-"]{
+  background: rgb(43, 177, 161);
+}
